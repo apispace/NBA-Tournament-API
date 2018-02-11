@@ -270,7 +270,7 @@ namespace apishop_sdk
 ①：通过https://www.apishop.net/#/api/detail/?productID=125 申请API服务
 
 **以下是完整代码示例：**
-``
+```
 using System;
 using System.Collections.Generic;
 using System.IO;
